@@ -1,0 +1,9 @@
+## Interface: 11303
+## Author: GoodGood
+## Title: GuildHi_classic
+## Notes: Automatically Hi! to guild member when comes in
+## Version: 1.0
+## X-Credits: GoodGood montecristo@netsgo.com
+
+Locale.lua
+GuildHi_Classic.lua
